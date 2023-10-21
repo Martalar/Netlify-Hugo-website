@@ -1,8 +1,8 @@
 # Font style metadata
-name = "Classic"
+name = "custom"
 
 # Optional Google font URL
-google_fonts = "Lato:400,700|Rokkitt|Roboto+Mono"
+google_fonts = "Rokkitt:400,700"
 
 # Font families
 heading_font = "Rokkitt"
