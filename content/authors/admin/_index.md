@@ -1,37 +1,36 @@
 ---
 # Display name
-title: 吳健雄
+title: Davide Dal Martello
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Davide
+last_name: Dal Martello
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Birmingham
+    url: https://www.birmingham.ac.uk/staff/profiles/maths/phd-students/dal-martello-davide.aspx/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a PhD student in the Geometry and Mathematical Physics group at the University of Birmingham, exploring the realm of quantum algebras and noncommutative geometry.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Quantum ALgebra
+  - Mathematical Physics
 
 # Education to show in About widget
 education:
@@ -120,5 +119,6 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Davide Dal Martello is a PhD student in the group of Geometry and Mathematical Physics, exploring the dazzling realm of quantum algebras and noncommutative geometry under the supervision of Professor Marta Mazzocco.
+In parallel to his research project, aimed at building a bridge between generalized double affine Hecke algebras and the monodromy phenomena of the Painlevé VI equation, he cultivates a fascination towards quantum groups and their role in a quantum spacetime concept.
 {style="text-align: justify;"}
