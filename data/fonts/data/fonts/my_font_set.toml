@@ -2,10 +2,10 @@
 name = "custom"
 
 # Optional Google font URL
-google_fonts = "Rokkitt:400,700"
+google_fonts = "Lato:400,700"
 
 # Font families
-heading_font = "Rokkitt"
-body_font = "Rokkitt"
-nav_font = "Rokkitt"
-mono_font = "Rokkitt"
+heading_font = "Lato"
+body_font = "Lato"
+nav_font = "Lato"
+mono_font = "Lato"
