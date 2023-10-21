@@ -5,7 +5,7 @@ name = "Classic"
 google_fonts = "Lato:400,700|Rokkitt|Roboto+Mono"
 
 # Font families
-heading_font = "Lato"
+heading_font = "Rokkitt"
 body_font = "Rokkitt"
-nav_font = "Lato"
-mono_font = "Space Mono"
+nav_font = "Rokkitt"
+mono_font = "Rokkitt"
